@@ -10,3 +10,15 @@ C:\Users\Jacob\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Lib
 C:\Users\Jacob\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.dll
 C:\Users\Jacob\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\ref\Library.TaskManager.dll
 C:\Users\Jacob\source\repos\TaskManager\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.pdb
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.deps.json
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.dll
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\bin\Debug\net5.0\ref\Library.TaskManager.dll
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\bin\Debug\net5.0\Library.TaskManager.pdb
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.csproj.AssemblyReference.cache
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.AssemblyInfoInputs.cache
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.AssemblyInfo.cs
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.dll
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\ref\Library.TaskManager.dll
+C:\Users\maste\Source\Repos\CSharp-Assignment-1\Library.TaskManager\obj\Debug\net5.0\Library.TaskManager.pdb
