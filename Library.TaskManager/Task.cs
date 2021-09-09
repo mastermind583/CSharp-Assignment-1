@@ -4,7 +4,7 @@ namespace Library.TaskManager
 {
     public class Task
     {
-        private static int currentId;
+        private static int currentId = 1;
 
         public Task()
         {
