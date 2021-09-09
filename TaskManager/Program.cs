@@ -202,12 +202,14 @@ namespace TaskManager
         {
             bool empty = true;
             Console.WriteLine();
+
             foreach (var task in taskList)
                 if (task.IsCompleted == false)
                 {
                     Console.WriteLine(task.ToString());
                     empty = false;
                 }
+
             if (empty)
                 Console.WriteLine("There are no outstanding tasks in the list.");
         }
