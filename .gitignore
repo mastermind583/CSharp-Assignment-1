@@ -3,7 +3,5 @@
 ################################################################################
 
 /.vs
-/Library.TaskManager/bin
-/Library.TaskManager/obj
-/TaskManager/bin
-/TaskManager/obj
+**/bin
+**/obj
