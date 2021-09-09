@@ -16,7 +16,6 @@ namespace Library.TaskManager
         public string Description { get; set; }
         public DateTime Deadline { get; set; }
         public bool IsCompleted { get; set; }
-
         public override string ToString()
         {
             return $"ID: {Id} - DEADLINE: {Deadline} - NAME: {Name} - DESCRIPTION: {Description} - COMPLETED: {IsCompleted}";
