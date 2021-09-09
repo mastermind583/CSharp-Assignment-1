@@ -209,9 +209,7 @@ namespace TaskManager
                     empty = false;
                 }
             if (empty)
-            {
                 Console.WriteLine("There are no outstanding tasks in the list.");
-            }
         }
 
         public static void ListAll(List<Task> taskList)
