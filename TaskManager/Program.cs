@@ -16,7 +16,7 @@ namespace TaskManager
             while (cont)
             {
                 Console.WriteLine("\nPlease choose an option: ");
-                Console.WriteLine("1. Create a new task");
+                Console.WriteLine("1. Create a new task please");
                 Console.WriteLine("2. Delete an existing task");
                 Console.WriteLine("3. Edit an existing task");
                 Console.WriteLine("4. Complete a task");
